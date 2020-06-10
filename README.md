@@ -15,3 +15,6 @@ https://minikube.sigs.k8s.io/docs/start/
 
 # How to set up a serious Kubernetes terminal (k9s)
 https://www.freecodecamp.org/news/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4/
+
+# kafka with Strimzi operato quickstart
+https://strimzi.io/quickstarts/
