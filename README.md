@@ -10,3 +10,6 @@ https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-a
 # K8s on macosx with Minikube
 https://matthewpalmer.net/kubernetes-app-developer/articles/guide-install-kubernetes-mac.html
 
+# Minikube Install
+https://minikube.sigs.k8s.io/docs/start/
+
