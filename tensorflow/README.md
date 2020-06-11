@@ -4,7 +4,7 @@ YouTube video:
 
 LINKS:
 How I got TensorFlow Developer Certified (article version) - https://dbourke.link/tfcertifiedarticle
-My TensorFlow Developer Certification Curriculum (in Notion) - https://dbourke.link/tfcertifiedcurri...
+[My TensorFlow Developer Certification Curriculum (in Notion)](https://www.youtube.com/redirect?v=ya5NwvKafDk&event=video_description&q=https%3A%2F%2Fdbourke.link%2Ftfcertifiedcurriculum&redir_token=92X29hPpIiK7oHkDMM8YAWObm6h8MTU5MTk3NzAzNkAxNTkxODkwNjM2)
 TensorFlow Developer Certification homepage - https://www.tensorflow.org/certificate
 TensorFlow in Practice on Coursera - https://dbourke.link/tfinpractice
 Hands-On Machine Learning Book - https://amzn.to/3aYexF2
