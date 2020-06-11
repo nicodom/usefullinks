@@ -18,3 +18,4 @@ https://www.freecodecamp.org/news/how-to-set-up-a-serious-kubernetes-terminal-dd
 
 # kafka with Strimzi operato quickstart
 https://strimzi.io/quickstarts/
+
