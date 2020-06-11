@@ -14,3 +14,6 @@ LINKS:
 * [Hacker News Who's Hiring Trends Post](https://www.youtube.com/redirect?v=ya5NwvKafDk&event=video_description&q=https%3A%2F%2Fwww.hntrends.com%2F2020%2Fmay-big-drop-developer-job-postings.html&redir_token=92X29hPpIiK7oHkDMM8YAWObm6h8MTU5MTk3NzAzNkAxNTkxODkwNjM2)
 * [GitHub thread for issue](https://www.youtube.com/redirect?v=ya5NwvKafDk&event=video_description&q=https%3A%2F%2Fgithub.com%2Ftensorflow%2Ftensorflow%2Fissues%2F33183%23issuecomment-568262536&redir_token=92X29hPpIiK7oHkDMM8YAWObm6h8MTU5MTk3NzAzNkAxNTkxODkwNjM2)
 * [Learn machine learning (with the beginner-friendly course I teach)](https://dbourke.link/mlcourse)
+
+MY LINKS:
+* [Directory of Tensorflow certified devs](https://developers.google.com/certification/directory/tensorflow)
